@@ -688,7 +688,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   livesCount: 3
   txtLives: {fileID: 1371349883}
-  txtCoin: {fileID: 0}
+  txtCoin: {fileID: 812821029}
   coinCount: 0
 --- !u!114 &654277389
 MonoBehaviour:

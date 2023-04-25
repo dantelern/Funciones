@@ -59,7 +59,7 @@ public class Mosca : MonoBehaviour
 
     void ScorePoint()
     {
-        txtCoin.text = coinCount.ToString();
         coinCount++;
+        txtCoin.text = coinCount.ToString();
     }
 }
